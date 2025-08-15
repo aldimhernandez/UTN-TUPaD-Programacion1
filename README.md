@@ -1,7 +1,6 @@
 # Trabajo Práctico 1 - Estructuras Secuenciales
 
-Este repositorio contiene el trabajo práctico número 1 para la materia de Programación 1 en la Universidad Tecnológica Nacional.
-En este trabajo se resuelven diversas actividades utilizando estructuras secuenciales en Python.
+Este repositorio fue creado como parte de la consigna del Trabajo Practico N 1, de la Unidad 2, de la materia Programación 1 para la Tecnicatura Universitaria en Programación de la UTN. En este trabajo se resuelven diversas actividades utilizando estructuras secuenciales en Python.
 
 ## Estructura del Proyecto
 
