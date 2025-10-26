@@ -7,12 +7,10 @@
 
 print("\nTP 7 - Estructuras de datos complejas")
 
-
 # Función para indicar el inicio de cada ejercicio
 def indicar_inicio_ejercicio(numero, nombre=""):
     print("\n-----------------------------------------------------------------")
     print(f"Ejercicio {numero}: {nombre}\n")
-
 
 # * 1) Dado el diccionario precios_frutas
 precios_frutas = {"Banana": 1200, "Ananá": 2500, "Melón": 3000, "Uva": 1450}
